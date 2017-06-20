@@ -1,4 +1,6 @@
 
-  # ignore .vars file
-  .vars
-  
+# ignore .vars file
+.vars
+
+# ignore .direnv
+.direnv
