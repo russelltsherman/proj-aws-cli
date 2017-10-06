@@ -1,4 +1,6 @@
-# aws
+# proj-aws-cli
+
+a project scaffold for projects using aws cli
 
 ## Installing Prerequisites
 
