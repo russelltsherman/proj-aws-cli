@@ -1,6 +1,6 @@
+# ignore python virtualenv
+.direnv
 
 # ignore .vars file
 .vars
 
-# ignore .direnv
-.direnv
